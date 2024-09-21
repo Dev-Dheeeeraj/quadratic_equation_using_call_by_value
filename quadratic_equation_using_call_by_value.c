@@ -1,3 +1,4 @@
+//hi everyone 
 #include<stdio.h>
 #include<math.h>
 int quad(int,int,int);
@@ -9,6 +10,7 @@ int main()
     quad(a,b,c);
 
 }
+//Dev-Dheeeeraj
 int quad(int a,int b,int c)
 {
     int d,r1,r2;
