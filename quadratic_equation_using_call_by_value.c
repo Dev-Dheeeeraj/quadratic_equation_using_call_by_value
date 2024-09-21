@@ -13,7 +13,7 @@ int main()
 //Dev-Dheeeeraj
 int quad(int a,int b,int c)
 {
-    int d,r1,r2;
+    float d,r1,r2;
     d=b*b-4*a*c;
 
     if(d>0)
